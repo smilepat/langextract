@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(robocopy \"c:/tmp/csat-english-analyzer\" \"E:/01_Projects/csat-english-analyzer\" /E /MIR /XD .git __pycache__ .venv venv /XF \"*.pyc\")",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
