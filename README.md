@@ -1,3 +1,10 @@
+> 📦 **Archived 2026-05-03** — Tier 3-E (Fork)
+> **원본**: [google/langextract](https://github.com/google/langextract)
+> **Fork 맥락**: Google 공식 LangExtract 라이브러리 fork (2026-03-21)
+> **자산**: 참고: csat-nlp-analyzer-langextract, nlpae 등에서 사용. 원본 PyPI: pip install langextract. 사용자 추가: settings.json (Claude Code 권한 설정)
+> **Unarchive**: `gh repo unarchive smilepat/<name>`
+
+---
 <p align="center">
   <a href="https://github.com/google/langextract">
     <img src="https://raw.githubusercontent.com/google/langextract/main/docs/_static/logo.svg" alt="LangExtract Logo" width="128" />
